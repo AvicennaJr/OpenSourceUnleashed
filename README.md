@@ -1,11 +1,9 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# Nuru Programming Presentation
 
-To start the slide show:
+Slides presented at Open Source Unleashed that happened at CoICT on 22/06/2024
+
+You can download the PPTX slide or start the slide with:
 
 - `npm install`
 - `npm run dev`
 - visit http://localhost:3030
-
-Edit the [slides.md](./slides.md) to see the changes.
-
-Learn more about Slidev on [documentations](https://sli.dev/).
